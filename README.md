@@ -6,11 +6,11 @@
   <img align="left" alt="Quy's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=quy1099ht.quy1099ht)
 
 <br />
 
-hi, i'm [Tran Dinh Quy](https://abhishknads.me/), I'm just a new guy in this dev things. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm [Tran Dinh Quy](https://quyportfolio.herokuapp.com/), I'm just a new guy in this dev things. i take great care in the experience, architecture, and code quality of the things I build.
 
 
 
