@@ -1,13 +1,8 @@
 <img src="https://c.tenor.com/DSG9ZID25nsAAAAC/hello-there-general-kenobi.gif" >
 
 
-
-<a href="https://www.linkedin.com/in/quy-tran-dinh-23604b216/">
-  <img align="left" alt="Quy's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
 ![](https://visitor-badge.glitch.me/badge?page_id=quy1099ht.quy1099ht)
-
+[Linkdln](https://www.linkedin.com/in/quy-tran-dinh-23604b216/)
 <br />
 
 ## Intro 
