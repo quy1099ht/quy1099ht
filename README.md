@@ -39,7 +39,7 @@
   <div style = "display:flex;justify-content:center;" >
     <h3>Anime</h3>
   </div>
-  <img src="https://gamek.mediacdn.vn/zoom/700_438/2016/6-1474109930503.gif" >
+  <img src="https://media3.giphy.com/media/2WawMIQgUbJK/giphy.gif" >
 </div>
 <div>
   <div style = "display:flex;justify-content:center;" >
